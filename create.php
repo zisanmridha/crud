@@ -8,7 +8,7 @@
     <title>Add New Book</title>
 </head>
 <body>
-    <!-- <div class="container my-5"> -->
+    <div class="container my-5">
     <header class="d-flex justify-content-between my-4">
             <h1>Add New Book</h1>
             <div>
